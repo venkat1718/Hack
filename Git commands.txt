@@ -1,6 +1,0 @@
-git config --global user.name "venkat17"
-
-git config --global user.email "avenkat616@gmail.com"
-
-git clone https://github.com/venkat17/TestGit.git
-
